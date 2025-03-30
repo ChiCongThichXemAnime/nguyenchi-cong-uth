@@ -17,6 +17,10 @@ ___
 + Ngành: *Mạng máy tính và truyền thông dữ liệu*
 + Chuyên ngành: *Mạng máy tính và truyền thông dữ liệu*
 
+## 2. Dự án mà mình đang làm
+
++ https://github.com/thangvn0987/ParkingAppITS
+
 ___
 
 ### Bản quyền thuộc về Chí Công Thích Xem Anime
